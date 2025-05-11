@@ -15,12 +15,16 @@ Aquí puedes ver algunas capturas de pantalla de la aplicación:
 
 <table>
   <tr>
-    <td><img src="https://github.com/drbv27/LittleLemonFullstack.git/main/restaurant/static/img/screenshots/ScreenSht1.jpeg" alt="Screenshot 1" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/drbv27/LittleLemonFullstack/main/restaurant/static/img/ScreenSht1.jpeg" alt="Screenshot 1" width="400"/></td>
     <td><img src="https://raw.githubusercontent.com/drbv27/CourseraDjangoWebFramework/main/restaurant/static/img/screenshots/Screenshot2.jpeg" alt="Screenshot 2" width="400"/></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/drbv27/CourseraDjangoWebFramework/main/restaurant/static/img/screenshots/Screenshot3.jpeg" alt="Screenshot 3" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/drbv27/CourseraDjangoWebFramework/main/restaurant/static/img/screenshots/Screenshot4.jpeg" alt="Screenshot 4" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/drbv27/LittleLemonFullstack/main/restaurant/static/img/ScreenSht2.jpeg" alt="Screenshot 4" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/drbv27/LittleLemonFullstack/main/restaurant/static/img/ScreenSht3.jpeg" alt="Screenshot 5" width="400"/></td>
+    <td></td>
   </tr>
 </table>
 
